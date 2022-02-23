@@ -1,6 +1,6 @@
 MODS = {
     [2578531818] = true; -- dylann
-    [3201027467] = true; -- dimag 
+    [3227974128] = true; -- dimag 
     [243829179] = true; -- david
     [62639400] = true; 
     [1145907268] = true; 
@@ -38,7 +38,7 @@ MODS = {
 
 ADMIN = {
     [2578531818] = true; -- dylann
-    [3201027467] = true; -- dimag
+    [3227974128] = true; -- dimag
     [243829179] = true; -- david
 }
 
