@@ -45,11 +45,13 @@ MODS = {
     [753206585] = true; --  
     [2036438512] = true; --  
     [418350183] = true; --  
+    [324778090] = true; --
 }
 
 ADMIN = {
     [2578531818] = true; -- dylann
     [3227974128] = true; -- dimag
+    [324778090] = true; --
 }
 
 --// Don't mess with anything below this
