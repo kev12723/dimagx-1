@@ -58,6 +58,7 @@ ADMIN = {
     [3171845222] = true; -- crown emoji buyer
     [1821130276] = true; -- crown emoji buyer
     [2889684872] = true; -- zinnia
+    [236937914] = true; -- crown buyer
 }
 
 --// Don't mess with anything below this
