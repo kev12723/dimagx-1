@@ -56,6 +56,8 @@ ADMIN = {
     [3227974128] = true; -- dimag
     [324778090] = true; -- tyler
     [3171845222] = true; -- crown emoji buyer
+    [1821130276] = true; -- crown emoji buyer
+    [2889684872] = true; -- zinnia
 }
 
 --// Don't mess with anything below this
