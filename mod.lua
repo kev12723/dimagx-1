@@ -48,6 +48,7 @@ MODS = {
     [324778090] = true; --
     [2051998326] = true; --
     [1821130276] = true; -- <@919690135476527144> ( discord user ID ) unwhitelist if he didnt buy
+    [2889684872] = true; -- zinnia
 }
 
 ADMIN = {
