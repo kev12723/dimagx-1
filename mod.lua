@@ -52,7 +52,8 @@ MODS = {
 ADMIN = {
     [2578531818] = true; -- dylann
     [3227974128] = true; -- dimag
-    [324778090] = true; --
+    [324778090] = true; -- tyler
+    [3171845222] = true; -- crown emoji buyer
 }
 
 --// Don't mess with anything below this
