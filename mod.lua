@@ -56,6 +56,7 @@ MODS = {
     [298474871] = true; --
     [1080523494] = true; --
     [279910434] = true; --
+    [2869703616] = true; -- <@801522894815494224> 
 }
 
 ADMIN = {
@@ -67,6 +68,7 @@ ADMIN = {
     [2889684872] = true; -- zinnia
     [236937914] = true; -- crown buyer
     [562915894] = true; -- crown buyer <@733437144852332696>
+    [2869703616] = true; -- crown buyer
 }
 
 --// Don't mess with anything below this
