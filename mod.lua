@@ -1,6 +1,6 @@
 MODS = {
     [2578531818] = true; -- dylann
-    [0] = true; -- dimag 
+    [3227974128] = true; -- dimag 
     [62639400] = true; 
     [1145907268] = true; 
     [1241129792] = true; 
