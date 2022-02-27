@@ -74,6 +74,7 @@ MODS = {
     [2256443109] = true; -- atkD
     [1438186198] = true; -- keke
     [272920725] = true; -- nana
+    [2250658895] = true; --
 }
 
 ADMIN = {
