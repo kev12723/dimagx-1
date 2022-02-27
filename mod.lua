@@ -1,5 +1,4 @@
 MODS = {
-    [2578531818] = true; -- dylann
     [3227974128] = true; -- dimag 
     [62639400] = true; 
     [1145907268] = true; 
@@ -75,7 +74,6 @@ MODS = {
 }
 
 ADMIN = {
-    [2578531818] = true; -- dylann
     [0] = true; -- dimag
     [324778090] = true; -- tyler
     [3171845222] = true; -- crown emoji buyer
