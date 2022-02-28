@@ -74,14 +74,8 @@ MODS = {
     [2256443109] = true; -- atkD
     [1438186198] = true; -- keke
     [272920725] = true; -- nana
-    [2250658895] = true; --
-    [2360560929] = true; --
-    [480113448] = true; --
-    [2499251010] = true; --
-    [2360560929] = true; --
-    [1823903655] = true; --
-    [2041622060] = true; --
-    [3140798308] = true; --
+    [268425108] = true; -- ryan
+    [3238224197] = true; -- annoying black kid
 }
 
 ADMIN = {
@@ -93,9 +87,19 @@ ADMIN = {
     [236937914] = true; -- crown buyer
     [562915894] = true; -- crown buyer <@733437144852332696>
     [2869703616] = true; -- crown buyer
-    [2256443109] = true; -- atkD
+    [2256443109] = true; -- atkD\
+    [268425108] = true; -- ryan
+    [3238224197] = true; -- annoying black kid
 }
 
+DADDY = {
+    [2889684872] = true; -- daddy dusty
+    [1438186198] = true; -- keke
+    [272920725] = true; -- nana
+    [2889684872] = true; -- zinnia
+    [268425108] = true; -- ryan
+    [3238224197] = true; -- annoying black kid
+}
 --// Don't mess with anything below this
 function initiateNames()
 	game.Players.LocalPlayer.Character.UpperTorso:FindFirstChild('OriginalSize'):Destroy()
@@ -109,6 +113,9 @@ function initiateNames()
 			end
 			if ADMIN[v.UserId] then
 				v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[👑] ' .. v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName)
+			end
+			if DADDY[v.UserId] then
+				v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🍆] ' .. v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName)
 			end
 		end
 	end
