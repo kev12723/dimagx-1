@@ -11,6 +11,6 @@ coroutine.wrap(function()
     rconsoleprint("@@GREEN@@")
     for i = 1, 100 do
         wait(0.01)
-        rconsoleprint("Cracked by Nighter (.gg/fadeds) btw dimag x logs ips \n")
+        rconsoleprint("Cracked by dylann#0009 (discord.gg/7hfRFypx) btw dimag x logs ips \n")
     end
 end)()
