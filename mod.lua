@@ -1,16 +1,1 @@
-pcall(function()
-    s = Instance.new("Sound", game.CoreGui)
-    s.SoundId = "rbxassetid://4917216201"
-    s.Volume = 10
-    s.PlayOnRemove = true
-    s:Destroy()
-    s.timeposition = 0.10
-end)
-coroutine.wrap(function()
-    rconsolename("discord.gg/fadeds")
-    rconsoleprint("@@GREEN@@")
-    for i = 1, 100 do
-        wait(0.01)
-        rconsoleprint("Cracked by dylann#0009 (discord.gg/7hfRFypx) btw dimag x logs ips \n")
-    end
-end)()
+print(32938290239420)
